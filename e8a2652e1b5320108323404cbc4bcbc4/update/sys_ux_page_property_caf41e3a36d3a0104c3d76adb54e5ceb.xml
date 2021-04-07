@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="OKR">bdf41e3a1bd3a0108323404cbc4bcbc2</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">c2f41e3a2bd3a01052f56d67ef9387e1</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-07 16:39:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>caf41e3a36d3a0104c3d76adb54e5ceb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr_0">e8a2652e1b5320108323404cbc4bcbc4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">e8a2652e1b5320108323404cbc4bcbc4</sys_scope>
+        <sys_update_name>sys_ux_page_property_caf41e3a36d3a0104c3d76adb54e5ceb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-07 16:39:07</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_557984_okr_0.bdf41e3a1bd3a0108323404cbc4bcbc2.route.chrome_header.c2f41e3a2bd3a01052f56d67ef9387e1</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=caf41e3a36d3a0104c3d76adb54e5ceb"/>
+</record_update>

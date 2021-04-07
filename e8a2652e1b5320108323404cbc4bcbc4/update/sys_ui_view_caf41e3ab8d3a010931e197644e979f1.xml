@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_settings_x_557984_okr_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-07 16:39:06</sys_created_on>
+        <sys_id>caf41e3ab8d3a010931e197644e979f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal settings (x_557984_okr_0 )</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr_0">e8a2652e1b5320108323404cbc4bcbc4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">e8a2652e1b5320108323404cbc4bcbc4</sys_scope>
+        <sys_update_name>sys_ui_view_caf41e3ab8d3a010931e197644e979f1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-07 16:39:06</sys_updated_on>
+        <title>Custom portal settings (x_557984_okr_0 )</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

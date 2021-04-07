@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>b9f41e3a1bd3a0108323404cbc4bcbc3</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-07 16:39:05</sys_created_on>
+        <sys_id>cef41e3aa3d3a0104200450288c875ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b9f41e3a1bd3a0108323404cbc4bcbc3</sys_name>
+        <sys_package display_value="OKR" source="x_557984_okr_0">e8a2652e1b5320108323404cbc4bcbc4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OKR">e8a2652e1b5320108323404cbc4bcbc4</sys_scope>
+        <sys_update_name>sys_security_acl_cef41e3aa3d3a0104200450288c875ee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-07 16:39:05</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>
